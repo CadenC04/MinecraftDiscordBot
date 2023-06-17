@@ -1,0 +1,3 @@
+Name: SeverName + x/x PlayerCount
+Status: Watching * Ip:Addr
+Roles: Admin Role, **Current Players Usernames**, etc.
